@@ -29,10 +29,10 @@ An interactive Power BI dashboard to monitor patient statistics and hospital per
 - [Add an insight about medication changes and readmission]
 
 ## 🛠️ Tools Used
-Power BI, DAX, [Power Query]
+Power BI, DAX.
 
 ## 📂 Dataset
-Source: [Kaggle / UCI / other]
+Source: Kaggle.
 
 ## 📬 Contact
-[Your Name] | [LinkedIn link] | [Email]
+Menna Mohammad | https://www.linkedin.com/in/mennatullah-mohammad-data-analyst/ | mennatullahabdussamad1@gmail.com.
